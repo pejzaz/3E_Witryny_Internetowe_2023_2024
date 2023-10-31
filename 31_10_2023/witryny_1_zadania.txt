@@ -1,0 +1,84 @@
+Karta pracy 1.
+
+Zadanie 1.
+1. HTML 4.01, HTML 5.0, <font>, CSS stylizacja, np. style lub class
+2. HTML 4.01, HTML 5.0, <center>,	CSS stylizacja, np. text-align: center;
+3. HTML 4.01, HTML 5.0, <strike>	<del> lub CSS stylizacja, np. text-decoration: line-through;
+4. HTML 4.01, HTML 5.0, <u>	<ins> lub CSS stylizacja, np. text-decoration: underline;
+5. HTML 4.01, HTML 5.0, <big>	CSS stylizacja, np. font-size
+6. HTML 4.01, HTML 5.0, <small>	CSS stylizacja, np. font-size
+7. HTML 4.01, HTML 5.0, align (atrybut dla <div>)	CSS stylizacja, np. text-align
+8. HTML 4.01, HTML 5.0, bgcolor (atrybut dla <table> i <td>)	CSS stylizacja, np. background-color
+9. HTML 4.01, HTML 5.0, border (atrybut dla <img>)	CSS stylizacja, np. border
+10. HTML 4.01, HTML 5.0, frame (atrybut dla <table>)	CSS stylizacja, np. border
+
+Zadanie 2.
+
+Deklaracja doctype:
+W HTML 4.01, deklaracja doctype miała bardziej złożoną strukturę, zawierała długie identyfikatory i atrybuty, takie jak PUBLIC, DTD, Transitional, itp. Przykład deklaracji doctype w HTML 4.01 wyglądał mniej czytelnie, na przykład: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">. W przypadku HTML 5.0, deklaracja doctype jest znacznie bardziej zwięzła i prostsza, ogranicza się jedynie do wprowadzenia <!DOCTYPE html>. To znacząca uproszczenie, które ułatwia pracę z dokumentem HTML i poprawia jego czytelność.
+
+Nowe znaczniki i atrybuty:
+HTML 5.0 wprowadziło wiele nowych znaczników i atrybutów, które nie istniały w HTML 4.01. Na przykład, wprowadzono znacznik <header>, <footer>, <nav>, <video>, <audio>, <canvas>, itp. oraz nowe atrybuty związane z semantyką i obsługą multimediów. To umożliwia bardziej precyzyjne określanie struktury dokumentu i dodawanie interaktywnych i multimedialnych elementów bez konieczności korzystania z ciężkich rozwiązań opartych na JavaScript.
+
+Obsługa znaków specjalnych:
+W HTML 4.01, aby wstawiać znaki specjalne, często używano encji HTML, na przykład &lt; dla < lub &copy; dla znaku praw autorskich ©. W HTML 5.0 wprowadzono możliwość stosowania znaków specjalnych bezpośrednio w kodzie, co znacząco poprawia czytelność i ułatwia pracę z treścią dokumentu. Na przykład, w HTML 5.0 można używać znaków < i © bezpośrednio, co sprawia, że kod jest prostszy i bardziej zrozumiały.
+
+Zadanie 3.
+
+HTML 4.0 - https://www.w3.org/TR/1998/REC-html40-19980424/
+HTML 4.1 - https://www.w3.org/TR/html401/
+HTML 5.0 - https://html.spec.whatwg.org/
+
+Sprawdź swoje umiejętności
+
+Zadanie 1.
+
+Witryna internetowa, Typowa strona internetowa zawierająca informacje, treści, linki i inne zasoby. 
+Tematyka Różnorodna, w zależności od celu strony.
+https://www.example.com/
+
+Portal internetowy, Duża platforma internetowa oferująca różnorodne usługi i treści, np. wiadomości, pocztę, rozrywkę.
+https://wykop.pl/
+
+Sklep internetowy, Strona internetowa służąca do sprzedaży produktów lub usług online.
+https://allegro.pl/
+
+Blog tekstowy, Strona internetowa, na której autorzy publikują regularne wpisy i artykuły na różne tematy.
+https://kotton.pl/
+
+Wideoblog (Vlog), Strona internetowa lub kanał na platformie wideo, na którym autorzy publikują wideozapisy z treściami i komentarzami.
+https://www.youtube.com/
+
+Zadanie 2.
+Powyższa strona WSIPu jest Wortalem internetowym oraz Fotoblogiem. Strona WSIPu zajmuje się tylko jedną tematyką - rozdawnictwem.
+Jeżeli chodzi o Fotoblogi to jest na ich stronie jeden taki prowadzony, w którym grafiki są tworzone starannie i dokładnie
+
+Zadanie 3.
+Błędna
+Błędna
+Błędna
+Poprawna
+Poprawna
+
+TEST 1.
+
+Zadanie 1.
+Skrót HTML to hipertekstowy język znaczników
+
+Zadanie 2.
+Aby dodać komentarz w dokumencie HTML, należy użyć składni <!--komentarz -->
+
+Zadanie 3.
+Dziennik internetowy, prowadzony na określony temat, to blog
+
+Zadanie 4.
+Jak nazywa się konsorcjum opracowujące specyfikacje kolejnych wersji języka HTML?
+W3C
+
+Zadanie 5.
+Zgodnie ze składnią języka HTML w nawiasach <i> wpisujemy nazwę znacznika
+
+Zadanie egzaminacyjne 1.
+Responsive Web Design, Zapewnienie, że strona internetowa jest responsywna, czyli dostosowuje się do różnych urządzeń i rozmiarów ekranów, jest kluczowe, zwłaszcza w przypadku szkół, które są odwiedzane przez uczniów korzystających z różnych urządzeń.
+CMS, Wykorzystanie CMS, takiego jak WordPress, Joomla lub Drupal, ułatwia zarządzanie treścią strony, umożliwia na dodawanie i edycję treści przez pracowników szkoły bez konieczności znajomości programowania.
+Baza danych, Jeśli na stronie będą publikowane informacje o wydarzeniach, planie lekcji, ogłoszeniach itp., warto rozważyć wykorzystanie bazy danych do przechowywania i zarządzania tymi danymi.
