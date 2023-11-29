@@ -1,0 +1,46 @@
+Karta Pracy 1.
+<!DOCTYPE html>	Deklaracja typu dokumentu HTML
+<html>	Element korzenia dokumentu HTML
+<head>	Kontener dla metadanych dokumentu
+<meta>	Metadane dokumentu
+<title>	Tytuł dokumentu
+<body>	Zawartość dokumentu
+<h1>	Nagłówek pierwszego poziomu
+<ul>	Lista punktowana
+<li>	Element listy
+<ol>	Lista numerowana
+type="A"	Typ listy numerowanej (duże litery alfabetu)
+
+Zadanie 1.
+Znajduje się w pliku technik.html
+
+Zadanie 2.
+Znajduje się w pliku pan_tadeusz.html
+
+Zadanie 3.
+Znacznik Atrybut Wartość
+<body> bgcolor red
+<a> href http://www.wsip.pl/
+<font> face color
+<p> brak text
+<meta> name description
+
+Test 3.
+
+Zadanie 1.
+A. przekreślenie tekstu
+
+Zadanie 2.
+C. <p>
+
+Zadanie 3.
+B. href
+
+Zadanie 4.
+D. <u>
+
+Zadanie 5.
+B. <span>
+
+Zadanie egzaminacyjne 1.
+Zadanie znajduje się w znaki.html
