@@ -1,0 +1,5 @@
+1. type="text" - pole tekstowe
+2. type="password" - pole na hasło
+3. type="radio" - pole wyboru jednej opcji
+4. type="checkbox" - pole wyboru wielu opcji
+5. type="image" - pole tworzące przycisk pod postacią zewnętrznego rysunku z podaniem źródła src
