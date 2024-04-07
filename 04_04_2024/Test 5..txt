@@ -1,0 +1,10 @@
+Zadanie 1
+A
+Zadanie 2
+C
+Zadanie 3
+B
+Zadanie 4
+A, zamiast width powinno być height
+Zadanie 5
+C

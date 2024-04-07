@@ -1,0 +1,3 @@
+Przeglądarka	HTML 4.01	HTML 5
+Firefox	Brak wsparcia	Brak wsparcia
+Internet Explorer	Odtwarzanie dzwięku	Odtwarzanie dzwięku

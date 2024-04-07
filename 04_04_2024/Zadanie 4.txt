@@ -1,0 +1,7 @@
+Element/cecha	HTML 5	HTML 4
+Osadzanie wideo	<video>	<object> lub <embed>
+Osadzanie audio	<audio>	<object> lub <embed>
+Obsługa multimediów	Wbudowane elementy <video> i <audio>. Wsparcie dla wielu formatów multimedialnych za pomocą atrybutu src.	Konieczność korzystania z zewnętrznych wtyczek (np. Flash) lub elementów <object> lub <embed>.
+Obsługa wideo z YouTube	Osadzanie za pomocą <iframe> lub specjalnej biblioteki JavaScript, np. YouTube Player API.	Wymaga stosowania elementów <object> lub <embed> i korzystania z adresów URL udostępnianych przez YouTube.
+Dostępność i wsparcie	HTML 5 jest wspierany przez nowoczesne przeglądarki internetowe. Elementy <video> i <audio> mają natywne wsparcie.	HTML 4 wymaga często korzystania z wtyczek przeglądarki do obsługi multimediów, co może prowadzić do problemów z dostępnością i wydajnością.
+Formaty multimedialne	W HTML 5 istnieje wsparcie dla wielu różnych formatów multimedialnych, takich jak MP4, WebM, Ogg itp.	W HTML 4 stosuje się przede wszystkim Flash, który ma własne wymagania dotyczące obsługi formatów multimedialnych.
